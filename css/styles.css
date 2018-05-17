@@ -8,3 +8,16 @@ button {
     box-sizing: border-box;
     border-style: solid black 2px;
 }
+
+#address {
+    color: #5555;
+    font-weight: bold;
+}
+#bathrooms {
+    color: #5555;
+    font-weight: bold;
+}
+#bedrooms {
+    color: #5555;
+    font-weight: bold;
+}
