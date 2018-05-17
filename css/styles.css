@@ -1,0 +1,10 @@
+body {
+    background: turquoise;
+}
+
+button {
+    background: oldlace;
+    font-size: 12px;
+    box-sizing: border-box;
+    border-style: solid black 2px;
+}
